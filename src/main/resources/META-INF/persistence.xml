@@ -11,10 +11,10 @@
             <property name="javax.persistence.jdbc.driver"
                 value="com.mysql.cj.jdbc.Driver" />
             <property name="javax.persistence.jdbc.url"
-                value="jdbc:mysql://3.110.90.219:3306/studentdata?createDatabaseIfNotExist=true" />
+                value="jdbc:mysql://13.233.204.187:3306/studentdata?createDatabaseIfNotExist=true" />
             <!-- Update username and password -->
-            <property name="javax.persistence.jdbc.user" value="tushar10" />
-            <property name="javax.persistence.jdbc.password" value="tushar10" />
+            <property name="javax.persistence.jdbc.user" value="pandao10" />
+            <property name="javax.persistence.jdbc.password" value="pandao10" />
             <!-- Ensure hibernate dialect is appropriate for MySQL 8 -->
             <property name="hibernate.dialect"
                 value="org.hibernate.dialect.MySQL8Dialect" />

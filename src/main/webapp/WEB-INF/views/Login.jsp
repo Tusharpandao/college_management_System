@@ -104,7 +104,7 @@ legend {
 
 		</fieldset>
 		
-		<a href="http://3.110.128.213:8081/collage_management/createAccount">Create
+		<a href="http://13.232.232.148:8080/college_management_system/createAccount">Create
 			Account</a>
 	</div>
 
